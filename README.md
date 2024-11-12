@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm youssef hajji</h1>
 <h3 align="center">Web FULL STACK Developer</h3>
+<p align="center"> <img src="https://media0.giphy.com/media/pLiyRPqPyxy7e/giphy.gif" alt="hajjiyoussef-dev" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hajjiyoussef-dev&label=Profile%20views&color=0e75b6&style=flat" alt="hajjiyoussef-dev" /> </p>
 
