@@ -22,6 +22,7 @@
 </div>
 <hr>
 [![youssef's 42 stats](https://badge.mediaplus.ma/black/yhajji)](https://github.com/hajjiyoussef-dev/badge42)
+<hr>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hajjiyoussef-dev&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&card_width=800" alt="Pilot-61"  /> <br>
   <img src="https://github-readme-stats.vercel.app/api?username=hajjiyoussef-dev&show_icons=true&locale=en&theme=dark&hide_border=true&card_width=800" alt="Pilot-61"  /> <br>
