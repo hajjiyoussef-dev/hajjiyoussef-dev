@@ -12,8 +12,8 @@
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=hajjiyoussef-dev&label=Profile%20views&color=0e75b6&style=flat" alt="hajjiyoussef-dev" /> </div>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 </div>                                    
-- 🔭 I’m currently working on **42-cursus**
-🌱 I’m currently learning C, C++ and more...
+-  I’m currently working on **42-cursus**
+ I’m currently learning C, C++ and more...
 
 
 📫 How to reach me hajjiyoussef016@gmail.com
