@@ -16,7 +16,7 @@
 <a href="https://www.instagram.com/elgrande_hajji" target="blank"  ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="medd_3o22" height="30" width="40" /></a>
 <a href="https://discord.gg/yousseflhajji" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jsnow0752" height="30" width="40" /></a>
 </div>
-
+<hr>
 
 [![yhajji's 42 stats](https://badge.mediaplus.ma/binary/yhajji)](https://github.com/oakoudad/badge42)
 
