@@ -25,8 +25,8 @@
 </div>
 <hr>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hajjiyoussef-dev&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&card_width=800" alt="Pilot-61"  /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=hajjiyoussef-dev&show_icons=true&locale=en&theme=dark&hide_border=true&card_width=800" alt="Pilot-61"  /> <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hajjiyoussef-dev&theme=dark&hide_border=true&card_width=800" alt="Pilot-61"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hajjiyoussef-dev&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&card_width=800" alt="hajjiyoussef-dev"  /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=hajjiyoussef-dev&show_icons=true&locale=en&theme=dark&hide_border=true&card_width=800" alt="hajjiyoussef-dev"  /> <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hajjiyoussef-dev&theme=dark&hide_border=true&card_width=800" alt="hajjiyoussef-dev"  />
 </div>
 <hr>
