@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm youssef hajji</h1>
 <h3 align="center">Web FULL STACK Developer</h3>
-<div align="center"> <img src="https://media0.giphy.com/media/pLiyRPqPyxy7e/giphy.gif" alt="hajjiyoussef-dev" /> </div>
+<!-- <div align="center"> <img src="https://media0.giphy.com/media/pLiyRPqPyxy7e/giphy.gif" alt="hajjiyoussef-dev" /> </div> -->
 <div align="center">
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=hajjiyoussef-dev&label=Profile%20views&color=0e75b6&style=flat" alt="hajjiyoussef-dev" /> </div>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
