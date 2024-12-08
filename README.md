@@ -5,7 +5,6 @@
 
  <div align="center">
   
-  [![yhajji's 42 stats](https://badge.mediaplus.ma/binary/yhajji)](https://github.com/oakoudad/badge42)  
   [![yhajji's 42 stats](https://badge.mediaplus.ma/binary/yhajji)](https://github.com/oakoudad/badge42)
   
 </div> 
